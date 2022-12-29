@@ -17,20 +17,35 @@
 mono_crash.*
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
+apsnetcorewebapp/[Dd]ebug/
+apsnetcorewebapp/[Dd]ebugPublic/
+apsnetcorewebapp/[Rr]elease/
+apsnetcorewebapp/[Rr]eleases/
+apsnetcorewebapp/x64/
+apsnetcorewebapp/x86/
+apsnetcorewebapp/[Ww][Ii][Nn]32/
+apsnetcorewebapp/[Aa][Rr][Mm]/
+apsnetcorewebapp/[Aa][Rr][Mm]64/
+apsnetcorewebapp/bld/
+apsnetcorewebapp/[Bb]in/
+apsnetcorewebapp/[Oo]bj/
+apsnetcorewebapp/[Ll]og/
+apsnetcorewebapp/[Ll]ogs/
+
+MyBlazorPwa/[Dd]ebug/
+MyBlazorPwa/[Dd]ebugPublic/
+MyBlazorPwa/[Rr]elease/
+MyBlazorPwa/[Rr]eleases/
+MyBlazorPwa/x64/
+MyBlazorPwa/x86/
+MyBlazorPwa/[Ww][Ii][Nn]32/
+MyBlazorPwa/[Aa][Rr][Mm]/
+MyBlazorPwa/[Aa][Rr][Mm]64/
+MyBlazorPwa/bld/
+MyBlazorPwa/[Bb]in/
+MyBlazorPwa/[Oo]bj/
+MyBlazorPwa/[Ll]og/
+MyBlazorPwa/[Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
